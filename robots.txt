@@ -1,0 +1,5 @@
+# robots.txt
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://adrianosmoutavelis.github.io/sitemap.xml
