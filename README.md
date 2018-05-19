@@ -1,3 +1,5 @@
+
+
 # [Ο ΙΣΤΟΤΟΠΟΣ](https://adrianosmoutavelis.github.io)
 
 Ο συγκεκριμένος ιστότοπος δημιουργήθηκε με σκοπό να υποστηρίξει δύο έννοιες: **Εργαλείο προς χρήση** και **Μοίρασμα**
@@ -21,3 +23,10 @@
 του υλικού, του παρόντος ιστότοπου, με την επιφύλαξη περί συγγραφικών 
 μας δικαιωμάτων, και την ευγενική παράκληση χρήσης της ονομαστικής μας 
 παραπομπής.**
+
+[**Άδεια χρήσης**](https://raw.githubusercontent.com/adrianosmoutavelis/adrianosmoutavelis.github.io/master/LICENSE.md)
+
+
+<p align="center">
+  <img src="https://adrianosmoutavelis.github.io/images/other/README-ICON.png">
+</p>
