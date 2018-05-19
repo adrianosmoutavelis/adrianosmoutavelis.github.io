@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://adrianosmoutavelis.github.io/images/other/README-ICON.png">
+</p>
 
 # [Ο ΙΣΤΟΤΟΠΟΣ](https://adrianosmoutavelis.github.io)
 
@@ -25,8 +27,3 @@
 παραπομπής.**
 
 [**Άδεια χρήσης**](https://raw.githubusercontent.com/adrianosmoutavelis/adrianosmoutavelis.github.io/master/LICENSE.md)
-
-
-<p align="center">
-  <img src="https://adrianosmoutavelis.github.io/images/other/README-ICON.png">
-</p>
