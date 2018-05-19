@@ -1,3 +1,3 @@
-Copyright © 2018 by Adrianos Moutavelis, All rights reserved. 
-Unauthorized copying of this file, via any medium is strictly prohibited
-Proprietary and confidential
+Copyright © 2018 by Adrianos Moutavelis.
+Παρέχουμε στους ενδιαφερόμενους την πλήρη δυνατότητα χρήσης και εφαρμογής του συνόλου του υλικού του παρόντος ιστότοπου,
+με την επιφύλαξη περί συγγραφικών μας δικαιωμάτων, και την ευγενική παράκληση χρήσης της ονομαστικής μας παραπομπής.
