@@ -5,7 +5,10 @@
 !/menus/
 !/.github/
 !404.html
+!404.png
+!defStyling.css
 !index.html
+!init.js
 !jquery-3.3.1.min.js
 !LICENSE.md
 !README.md
