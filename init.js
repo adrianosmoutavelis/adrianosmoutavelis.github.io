@@ -24,7 +24,7 @@ function getParameterByName(e, n) {
 $(document).ready(function() {
 var wloc = window.location;
 if (wloc == "https://adrianosmoutavelis.github.io") {
-	window.history.pushState({}, null, "" + p);
+	window.history.pushState({}, null, "");
 }
     $(".topnav").load("menus/menutop.html"), $(".row > .leftcolumn").load("menus/menuleft.html"), $(".row > .rightcolumn").load("menus/menuright.html");
     var e = getParameterByName("article", window.location);
