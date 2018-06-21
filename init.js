@@ -22,6 +22,7 @@ function getParameterByName(e, n) {
     });
 
 $(document).ready(function() {
+window.history.pushState(null, null, "");
     $(".topnav").load("menus/menutop.html"), $(".row > .leftcolumn").load("menus/menuleft.html"), $(".row > .rightcolumn").load("menus/menuright.html");
     var e = getParameterByName("article", window.location);
     null != e && "" != e || (e = "Startpage"), $(".row > .midcolumn").load("articles/" + e + ".html"), $(".img").css("background-image", "url(images/header/" + (Math.floor(3 * Math.random()) + 1) + ".jpg)")
