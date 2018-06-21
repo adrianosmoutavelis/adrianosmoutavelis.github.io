@@ -4,7 +4,7 @@ function loadBody(p) {
             location.href = "https://adrianosmoutavelis.github.io/index.html?article=" + p;
         } else {
             $(".row > .midcolumn").load("articles/" + p + ".html");
-            window.history.pushState({}, null, "/index/html?article" + p);
+            window.history.pushState({}, null, "/index/html?article=" + p);
         }
     }
 }
