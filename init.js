@@ -14,8 +14,17 @@ function getParameterByName(e, n) {
     var o = new RegExp("[?&]" + e + "(=([^&#]*)|&|#|$)").exec(n);
     return o ? o[2] ? decodeURIComponent(o[2].replace(/\+/g, " ")) : "" : null
 }
+
+    $(window).on("popstate", function(e) {
+        if (e.originalEvent.state !== null) {
+        location.reload()
+        }
+    });
+
 $(document).ready(function() {
     $(".topnav").load("menus/menutop.html"), $(".row > .leftcolumn").load("menus/menuleft.html"), $(".row > .rightcolumn").load("menus/menuright.html");
     var e = getParameterByName("article", window.location);
     null != e && "" != e || (e = "Startpage"), $(".row > .midcolumn").load("articles/" + e + ".html"), $(".img").css("background-image", "url(images/header/" + (Math.floor(3 * Math.random()) + 1) + ".jpg)")
 });
+
+
